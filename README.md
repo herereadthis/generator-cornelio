@@ -50,7 +50,7 @@ grunt build
 
 tests
 ```
-grunt tests
+grunt test
 ```
 
 Dev Server
